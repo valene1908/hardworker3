@@ -1,0 +1,56 @@
+h1
+{
+	text-shadow: 6px 6px 6px;
+}
+h2
+{
+	text-decoration: underline;
+}
+body
+{
+color:black;
+background-color: powderblue;
+}
+.Biographie
+{
+	width: 500px;
+	background-color: #708d23;
+	border-style: groove;
+}
+.shadowbox1
+{
+	width: 500px;
+	background-color: #708d23;
+	border-style: groove;
+}
+.shadowbox2
+{
+	width: 500px;
+	background-color: #708d23;
+	border-style: groove;
+}
+.shadowbox3
+{
+	width: 500px;
+	background-color: #708d23;
+	border-style:groove;
+}
+.shadowbox4
+{
+	width: 500px;
+	background-color:#708d23;
+	border-style: groove;
+}
+nav ul
+{
+	list-style-list: none;
+}
+
+
+
+
+
+
+
+
+
